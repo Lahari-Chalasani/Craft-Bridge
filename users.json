@@ -1,7 +1,0 @@
-{
-  "seller@craftbridge.com": {
-    "name": "CraftBridge Demo Seller",
-    "password": "scrypt:32768:8:1$k8kDfwbiSDajzGpZ$3e0ee98292b2f3108174c6662a9d79f1f101c74eb8acf4fe5cb6ab010e7bde0c75e61651089071db45f3e203cba1e69dd7bc7aa3444efca4c951a9a5a9b732a6",
-    "role": "seller"
-  }
-}
