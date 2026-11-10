@@ -1,0 +1,22 @@
+[
+  {
+    "id": "277e7f7b84cd4c4c80e3a7c1502007c6",
+    "name": "Wooden Jewellery Box",
+    "description": "A beautifully handcrafted wooden jewellery box made by skilled local artisans using quality wood. It features an elegant traditional design with detailed carvings and a smooth finish. The box provides convenient storage for rings, earrings, necklaces, bracelets and other accessories. Its attractive appearance makes it a perfect decorative item for dressing tables and a thoughtful gift for birthdays, weddings and special occasions. Each piece reflects the creativity and craftsmanship of local artisans.",
+    "category": "Art & Decor",
+    "price": 450.0,
+    "image": "277e7f7b84cd4c4c80e3a7c1502007c6.jpg",
+    "seller_email": "seller@craftbridge.com",
+    "seller_name": "CraftBridge Demo Seller"
+  },
+  {
+    "id": "f3a89a0900694ac2b00daaa0ca096296",
+    "name": "Handmade pot",
+    "description": "Full handmade craft by local partitions using natural clay it features a traditional design in elegant finish. Perfect for home decoration, living rooms and gifting. Each piece is handmade with care and supports local craftsmanship.",
+    "category": "Handmade",
+    "price": 320.0,
+    "image": "f3a89a0900694ac2b00daaa0ca096296.jpg",
+    "seller_email": "seller@craftbridge.com",
+    "seller_name": "CraftBridge Demo Seller"
+  }
+]
